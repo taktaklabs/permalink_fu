@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = "permalink_fu"
-  s.version     = "0.0.1"
-  s.authors     = ['technoweenie', 'knapo']
+  s.version     = "0.0.2"
+  s.authors     = ['technoweenie', 'knapo', 'taktaklabs']
   s.platform    = Gem::Platform::RUBY
   s.rubyforge_project = "knapo-permalink_fu"
 
