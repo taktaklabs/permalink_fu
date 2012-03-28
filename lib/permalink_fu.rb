@@ -26,7 +26,7 @@ module PermalinkFu
     end
 
     def random_permalink
-      ::ActiveSupport::SecureRandom.hex(16)
+      SecureRandom.hex(16)
     end
 
     def iconvify(string)
